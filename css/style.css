@@ -59,3 +59,6 @@ body{
 .login.input[type='submit']:focus{
     border-color: #05a;
 }
+.main_nav{
+    display: inline-block;
+}
